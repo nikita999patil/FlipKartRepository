@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Flipkart application test automation test suite">
+  <test name="Flipkart test Cases">
+    <classes>
+        <class name="com.flipkart.qa.testcases.CartPageTest.java"/>
+         <class name="com.flipkart.qa.testcases.HomePageTest.java"/> 
+        <class name="com.flipkart.qa.testcases.LoginPageTest.java"/>
+    </classes>
+  </test> 
+</suite> 
